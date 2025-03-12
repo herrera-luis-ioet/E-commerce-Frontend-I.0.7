@@ -1,1 +1,3 @@
-# E-commerce-Frontend-I.0.7
+# Project Repository
+
+This is the initial README file for the project.
